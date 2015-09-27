@@ -1,0 +1,1 @@
+Przykładowe zastosowanie frameworka jQuery Mobile
